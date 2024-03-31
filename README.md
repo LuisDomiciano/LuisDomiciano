@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java, Javascript and others.
+- 🌱 I’m currently learning Java, Javascript and others languages.
 - 👯 I’m looking to collaborate on side projects or open source.
 
 <!--
